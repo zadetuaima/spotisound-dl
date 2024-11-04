@@ -12,7 +12,7 @@ pip install requirements.txt
 
 ## Usage
 
-Both a Spotify and Soundcloud API is neeed, blank key files are present within the repo.
+Both a Spotify and Soundcloud API is neeed, blank key files are present within the repo, remove the _temp extension to use within the script.
 
 For Spotify, create a new application within the Spotify developer tab to get a client_id, client_secret, redirect and a username
 
