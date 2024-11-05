@@ -14,9 +14,11 @@ pip install requirements.txt
 
 Both a Spotify and Soundcloud API is needed, blank key files are present within the repo, remove the _temp extension to use within the script.
 
+- **Spotify API setup:**
+
 Spotify API credentials, create a new application within the Spotify developer tab to get a client_id, client_secret, redirect and a username
 
-- **Soundcloud API credentials:**
+- **Soundcloud API setup:**
 
 For Soundcloud, API apps have unfortunately been disabled due to high demand, however you can still get a client_id and OAuth key from their main website:
 
@@ -42,6 +44,8 @@ Create a soundcloud account, login then head to soundcloud.com. Inspect element 
 }
 ```
 
-##Usage
+## Usage
 
-The script comes as a jupyter notebook file, run it 
+- **Download Spotify playlists:** Input a Spotify playlist URL, automatically downloads at 320kbps, metadata includes artist, album, genre, year of release and album art
+
+- **Download Soundcloud playlists: Input a Soundcloud playlist URL, download at a max bitrate of 128kbps, metadata includes artist, and album art
