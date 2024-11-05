@@ -48,4 +48,4 @@ Create a soundcloud account, login then head to soundcloud.com. Inspect element 
 
 - **Download Spotify playlists:** Input a Spotify playlist URL, automatically downloads at 320kbps, metadata includes artist, album, genre, year of release and album art
 
-- **Download Soundcloud playlists: Input a Soundcloud playlist URL, download at a max bitrate of 128kbps, metadata includes artist, and album art
+- **Download Soundcloud playlists:** Input a Soundcloud playlist URL, download at a max bitrate of 128kbps, metadata includes artist, and album art
