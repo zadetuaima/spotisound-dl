@@ -16,7 +16,7 @@ Both a Spotify and Soundcloud API is needed, blank key files are present within 
 
 Spotify API credentials, create a new application within the Spotify developer tab to get a client_id, client_secret, redirect and a username
 
--***Soundcloud API credentials:***
+- **Soundcloud API credentials:**
 
 For Soundcloud, API apps have unfortunately been disabled due to high demand, however you can still get a client_id and OAuth key from their main website:
 
