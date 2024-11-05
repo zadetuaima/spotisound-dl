@@ -10,11 +10,13 @@ Use the pip to install requirements.txt
 pip install requirements.txt
 ```
 
-## Usage
+## Preperation
 
 Both a Spotify and Soundcloud API is needed, blank key files are present within the repo, remove the _temp extension to use within the script.
 
-For Spotify, create a new application within the Spotify developer tab to get a client_id, client_secret, redirect and a username
+Spotify API credentials, create a new application within the Spotify developer tab to get a client_id, client_secret, redirect and a username
+
+-***Soundcloud API credentials:***
 
 For Soundcloud, API apps have unfortunately been disabled due to high demand, however you can still get a client_id and OAuth key from their main website:
 
@@ -31,7 +33,7 @@ Create a soundcloud account, login then head to soundcloud.com. Inspect element 
 }
 ```
 
-### Example JSON for Spotify credentials
+### Example JSON for Soundcloud credentials
 
 ```json
 {
@@ -39,3 +41,7 @@ Create a soundcloud account, login then head to soundcloud.com. Inspect element 
 	"client_id": ""
 }
 ```
+
+##Usage
+
+The script comes as a jupyter notebook file, run it 
